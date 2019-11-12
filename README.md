@@ -1,15 +1,9 @@
-<html>
 
-	<head>
+# titulo
 
-		<title>Mi página de ejemplo</title>
 
-	</head>
-
-	<body>
-
-	Aquí va el contenido
-
-	</body>
-
-</html>
+hdjdjdjdkdkskd!f
+## hobbies
+hdjfjfkkf
+-jdjdjjfjf
+- jfjhdbdhd
